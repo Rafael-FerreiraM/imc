@@ -47,7 +47,7 @@ namespace IMC
                 Console.Write("Obesidade grau II ");
 
             }
-            else if (imc >= 40)
+            else 
             {
                 Console.Write("Obesidade grau III ");
 
